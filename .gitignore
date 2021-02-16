@@ -1,0 +1,43 @@
+# continuum_dynamics
+*.asv
+*.mtl
+*.SLDPRT
+*.zip
+*.obj
+*.step
+data/*
+*.swj
+*.avi
+
+*.mat
+*.yaml
+*.mp4
+*.mat
+*.avi
+
+
+cpp/build/*
+cpp/build/CMakeFiles/*
+cpp/build/CMakeFiles/app.dir/*
+cpp/external/*
+
+
+*.json
+
+*.xyz
+
+functions/xyz file operations/__MACOSX/xyz file operations/
+
+*.html
+
+*.png
+
+functions/xyz file operations/xyz file operations/
+
+*.stl
+
+snapconnector/plot_.m
+
+*.csv
+
+*.txt
